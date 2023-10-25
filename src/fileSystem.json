@@ -1,0 +1,18 @@
+[
+    {
+        "name":"Documents",
+        "type":"folder",
+        "children":[
+            {"name":"Resume.docs","type":"file"},
+            {"name":"Reports.docs","type":"file"}
+        ]
+    },
+    {
+        "name":"Images",
+        "type":"folder",
+        "children":[
+            {"name":"Vacations.jpeg","type":"file"},
+            {"name":"Family.png","type":"file"}
+        ]
+    }
+]
